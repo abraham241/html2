@@ -557,7 +557,7 @@ header{
     transform: rotate(48deg);
     position: relative;
     bottom: 305px;
-    left: 115px;
+    left: 125px;
     /* noir */
 }
 
@@ -665,7 +665,7 @@ header{
 #sec9{
     height: 680px;
     width: auto;
-    background:linear-gradient(red,violet);
+    background:linear-gradient(red,rgb(175, 51, 175));
     display: flex;
     justify-content: space-around;
 }
