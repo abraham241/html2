@@ -538,7 +538,7 @@ header{
 } */
 
 #sec7{
-    height:740px;
+    height:920px;
     width: auto;
     display: flex;
     justify-content: center;
@@ -552,23 +552,23 @@ header{
 }
 
 .image1{
-    height: 150px;
-    width: 120px;
-    transform: rotate(48deg);
+    height: 250px;
+    width: 350px;
+    transform: rotate(50deg);
     position: relative;
-    bottom: 305px;
-    left: 125px;
+    bottom: 255px;
+    right: 49px;
     /* noir */
 }
 
 
 #image3{
-    height: 150px;
-    width: 120px;
-    transform: rotate(67deg);
+    height: 163px;
+    width: 220px;
+    transform: rotate(66deg);
     position: relative;
-    bottom: 75px;
-    left: 230px;
+    bottom: 25px;
+    left: 118px;
 /* rouge */
 }
 
@@ -577,10 +577,10 @@ header{
 #image2{
     height: 150px;
     width: 120px;
-    transform: rotate(107deg);
+    transform: rotate(105deg);
     position: relative;
-    top: 280px;
-    left: 255px;
+    top: 430px;
+    left: 235px;
     /* bleu */
 }
 
@@ -592,7 +592,7 @@ header{
   position: relative;
   top: 100px;
   right: 40px;
-  line-height: 19px;
+  line-height: 23px;
   
 }
 
@@ -604,8 +604,8 @@ header{
 }
 
 .texte7 p {
-    font-size: 18px;
-    line-height: 25px;
+    font-size: 21px;
+    line-height: 29px;
 }
 
 .texte7 h5{
