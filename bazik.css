@@ -55,7 +55,7 @@ header{
 
 #liste1{
    height: 40px;
-   width: 600px;
+   width: 650px;
    position: relative;
    top: 20px;
 }
@@ -64,7 +64,8 @@ header{
     display: flex;
     justify-content: space-around;
     list-style-type: none;
-    font-size: bold;
+    /* font-size: bold; */
+    font-weight: bold;
 
 }
 
