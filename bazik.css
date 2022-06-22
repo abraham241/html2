@@ -557,7 +557,7 @@ header{
     transform: rotate(50deg);
     position: relative;
     bottom: 255px;
-    right: 49px;
+    right: 55px;
     /* noir */
 }
 
@@ -592,7 +592,7 @@ header{
   position: relative;
   top: 100px;
   right: 40px;
-  line-height: 23px;
+  line-height: 20px;
   
 }
 
