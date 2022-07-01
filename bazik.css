@@ -175,7 +175,7 @@ header{
 }
 
 #sec3{
-    height: 750px;
+    height: 780px;
     width: auto;
     background-image: url(8.jpg);
     background-size: 140%;
@@ -210,62 +210,82 @@ header{
     position: relative;
     top: 0px;
     left: -55px;
-    line-height: 30px;
+    line-height: 25px;
 }
 
 .ob1{
     position: absolute;
-    top: 15px;
+    top: 5px;
     left: -50px;
 }
 
 .ob2{
     position: absolute;
-    top: 45px;
+    top: 55px;
     left: -50px;
 }
 
 .ob3{
     position: absolute;
-    top: 45px;
+    top: 65px;
     left: -50px;
 }
 
 #oo{
     position: relative;
-    bottom: 70px;
-    left: 80px;
+    bottom: 50px;
+    left: 95px;
     color: white;
     font-size: 18px;
     line-height: 28px;
 
+}
+
+#oo h3 {
+     position: relative;
+     bottom: 18px;
 }
 
 #oooo{
     position: relative;
-    bottom: 55px;
-    left: 80px;
+    bottom: 45px;
+    left: 95px;
     color: white;
     font-size: 18px;
     line-height: 28px;
 }
 
+#oooo h3{
+    position: relative;
+    bottom: 12px;
+}
+
 #ooo{
     position: relative;
-    bottom: 65px;
-    left: 75px;
+    bottom: 55px;
+    left: 95px;
     color: white;
     font-size: 18px;
     line-height: 28px;
+}
+
+#ooo h3{
+    position: relative;
+    bottom: 12px;
 }
 
 #poo{
     position: relative;
     left: 140px;
     top: 70px;
-    font-size: 28px;
+    font-size: 25px;
     color: white;
-    
+}
+
+#o{
+    position: relative;
+    left: 30px;
+    line-height: 32px;
 }
 
 #sec4{
@@ -465,8 +485,8 @@ header{
 
 #hu{
     position: relative;
-    left: 250px;
-    top: 50px;
+    left: 300px;
+    top: 70px;
     font-size: 20px;
 }
 
@@ -499,8 +519,8 @@ header{
 .pterose1 h2{
     position: relative;
     left: 30px;
-    top: 15px;
-    font-size: 20px;
+    top: 25px;
+    font-size: 25px;
 }
 
 #hw{
@@ -510,7 +530,11 @@ header{
     left: 280px;
     bottom: 405px;
     font-size: 15px;
-    line-height: 22px;
+    line-height: 25px;
+ }
+
+ #hw h1{
+    font-size: 28px;
  }
 
 #zzz{
@@ -682,7 +706,7 @@ header{
 #sec9{
     height: 680px;
     width: auto;
-    background:linear-gradient(red,rgb(175, 51, 175));
+    background:linear-gradient(red,rgb(151, 22, 151));
     display: flex;
     justify-content: space-around;
 }
@@ -823,6 +847,7 @@ header{
 
 .ddd{
     position: relative;
+    top: 110px;
     right: 50px;
 }
 
@@ -833,6 +858,12 @@ header{
     justify-content: space-around;
     position: relative;
     left: 180px;
+}
+
+.ul1 ul li{
+    line-height: 22px;
+    position: relative;
+    bottom: 10px;
 }
 
 .lu ul li {
