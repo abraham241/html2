@@ -346,7 +346,7 @@ header{
     height: 480px;
     width: 400px;
     position: relative;
-    top: 100px;
+    top: 70px;
     right: 50px;
     justify-content: space-around;
     display: flex;
@@ -366,6 +366,7 @@ header{
 
 .text4 h3{
     font-size: 30px;
+    font-weight: lighter;
     font-family: "fonthugues2";
 }
 
@@ -456,7 +457,7 @@ header{
     display: flex;
     justify-content: space-between;
     position: relative;
-    left: 150px;
+    left: 140px;
     top: 20px;
 }
 
@@ -704,7 +705,7 @@ header{
 }
 
 #sec9{
-    height: 680px;
+    height: 695px;
     width: auto;
     background:linear-gradient(red,rgb(151, 22, 151));
     display: flex;
@@ -727,6 +728,10 @@ header{
     font-size: 38px;
 }
 
+#texte10 p{
+    line-height: 24px;
+}
+
 #img8{
     position: relative;
     top: 50px;
@@ -746,6 +751,9 @@ header{
     height: 800px;
     width: auto;
     background-image: url(3565208.png);
+    background-position: 0px -110px;
+    position: relative;
+    bottom: 5px;
 }
 
 .teste11{
@@ -756,7 +764,7 @@ header{
     left: 670px;
     line-height: 27px;
     font-size: 18px;
-    top: 230px;
+    top: 200px;
 }
 
 .teste11 h1{
@@ -797,6 +805,14 @@ header{
     position: relative;
     left: 150px;
     top: 120px;
+}
+
+.blu{
+    height: 50px;
+    width: 1350px;
+    background-color: #f8fafc;
+    position: relative;
+    right: 150px;
 }
 
 .fff h1{
@@ -848,7 +864,7 @@ header{
 .ddd{
     position: relative;
     top: 110px;
-    right: 50px;
+    right: 115px;
 }
 
 .yyy{
@@ -869,6 +885,7 @@ header{
 .lu ul li {
     position: relative;
     top: 130px;
+    left: 70px;
     list-style-type: none;
     cursor: pointer;
     text-decoration: none;
@@ -891,9 +908,9 @@ li{
 .simple{
     border-top: solid white 1px;
     height: 10px;
-    width: 1050px;
+    width: 1090px;
     position: relative;
-    left: 155px;
+    left: 115px;
 }
 
 .ul1 ul li a{
@@ -921,8 +938,14 @@ li{
 }
 
 .zzzz p {
-    color: red;
+    color: #e60845;
     font-size: 14px;
+}
+
+.zzzz{
+    line-height: 30px;
+    position: relative;
+    right: 70px;
 }
 
 .zzzz a {
