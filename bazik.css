@@ -462,7 +462,7 @@ header{
 }
 
 .bleu{
-    height: 320px;
+    height: 330px;
     width: 550px;
     background-color: #09a1ed;
     color: white;
@@ -475,7 +475,7 @@ header{
 .bleu h2{
     position: relative;
     left: 30px;
-    top: 25px;
+    top: 16px;
 }
 
 #ligne1{
@@ -501,7 +501,7 @@ header{
 }
 
 .rose{
-    height: 320px;
+    height: 330px;
     width: 550px;
     background-color: #ff0066;
     border-radius: 7px;
@@ -520,7 +520,7 @@ header{
 .pterose1 h2{
     position: relative;
     left: 30px;
-    top: 25px;
+    top: 16px;
     font-size: 25px;
 }
 
@@ -705,9 +705,9 @@ header{
 }
 
 #sec9{
-    height: 695px;
+    height: 705px;
     width: auto;
-    background:linear-gradient(red,rgb(151, 22, 151));
+    background:linear-gradient(to bottom, #f30924, #c70588 );
     display: flex;
     justify-content: space-around;
 }
@@ -726,10 +726,14 @@ header{
 
 #texte10 h1{
     font-size: 38px;
+    position: relative;
+    bottom: 15px;
 }
 
 #texte10 p{
-    line-height: 24px;
+    line-height: 27px;
+    position: relative;
+    bottom: 35px;
 }
 
 #img8{
@@ -864,7 +868,7 @@ header{
 .ddd{
     position: relative;
     top: 110px;
-    right: 115px;
+    right: 98px;
 }
 
 .yyy{
@@ -880,17 +884,18 @@ header{
     line-height: 22px;
     position: relative;
     bottom: 10px;
+    right: 18px;
 }
 
 .lu ul li {
     position: relative;
     top: 130px;
-    left: 70px;
+    left: 88px;
     list-style-type: none;
     cursor: pointer;
     text-decoration: none;
     color: white;
-    font-size: 12px;
+    font-size: 15px;
     line-height: 35px;
     text-align: right;
 }
@@ -906,9 +911,9 @@ li{
 
 
 .simple{
-    border-top: solid white 1px;
+    border-top: solid rgb(65, 62, 62) 0.5px;
     height: 10px;
-    width: 1090px;
+    width: 1140px;
     position: relative;
     left: 115px;
 }
@@ -935,17 +940,18 @@ li{
     line-height: 35px;
     position: relative;
     bottom: 15px;
+    right: 15px;
 }
 
 .zzzz p {
     color: #e60845;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .zzzz{
     line-height: 30px;
     position: relative;
-    right: 70px;
+    right: 50px;
 }
 
 .zzzz a {
@@ -961,12 +967,13 @@ li{
     display: flex;
     text-decoration: none;
     justify-content: space-between;
-    /* position: relative;
-    top: 15px */
+    position: relative;
+    top: 15px;
+    left: 29px;
 }
 
 .contenaire5{
-    font-size: 14px;
+    font-size: 15px;
 
 }
 
