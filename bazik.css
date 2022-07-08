@@ -58,6 +58,7 @@ header{
    width: 650px;
    position: relative;
    top: 20px;
+   left: 20px;
 }
 
 #liste1 ul {
@@ -738,7 +739,7 @@ header{
 
 #img8{
     position: relative;
-    top: 50px;
+    bottom: 35px;
 }
 
 #img7{
@@ -752,7 +753,7 @@ header{
 }
 
 .sec10{
-    height: 800px;
+    height: 750px;
     width: auto;
     background-image: url(3565208.png);
     background-position: 0px -110px;
@@ -768,7 +769,7 @@ header{
     left: 670px;
     line-height: 27px;
     font-size: 18px;
-    top: 200px;
+    top: 130px;
 }
 
 .teste11 h1{
@@ -791,7 +792,7 @@ header{
     width: 750px;
     color: white;
     position: relative;
-    top: 230px;
+    top: 210px;
     left: 100px;
 }
 
@@ -804,11 +805,29 @@ header{
 }
 
 .fff{
-    height: 500px;
+    height: 465px;
     width: auto;
     position: relative;
     left: 150px;
     top: 120px;
+}
+
+.quatretof{
+    width: 1150px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    right: 50px;
+    bottom: 40px;
+}
+
+.troistof{
+    width:950px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 20px;
+    bottom: 10px;
 }
 
 .blu{
@@ -817,14 +836,15 @@ header{
     background-color: #f8fafc;
     position: relative;
     right: 150px;
+    bottom: 10px;
 }
 
 .fff h1{
     font-size: 45px;
     text-align: center;
     position: relative;
-    bottom: 40px;
-    right: 120px;
+    bottom: 80px;
+    right: 145px;
     font-weight: lighter;
 
 }
