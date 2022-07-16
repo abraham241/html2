@@ -380,7 +380,7 @@ header{
 #lo1{
     position: relative;
     right: 50px;
-    bottom: 295px ;
+    top: -280px ;
     line-height: 280%;
     font-size: 15px;
     
@@ -389,6 +389,11 @@ header{
 #lo{
     position: relative;
     right: 80px;
+    height: 270px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    /* background-color: #fff; */
 }
 
 .texte5{
@@ -793,7 +798,7 @@ header{
     color: white;
     position: relative;
     top: 210px;
-    left: 100px;
+    left: 130px;
 }
 
 .texto h1 {
