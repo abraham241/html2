@@ -485,9 +485,13 @@ header{
 }
 
 #ligne1{
+    height: 150px;
     position: relative;
     left: 30px;
-    top: 15px;
+    top: 10px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
 }
 
 #hu{
@@ -555,8 +559,12 @@ header{
 
 #ligne2{
     position: relative;
-    top: 50px;
+    top: 40px;
     left: 30px;
+    height: 210px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
 }
 
 #pa{
